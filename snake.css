@@ -1,0 +1,6 @@
+/* Set the font family for the entire body of the HTML document.
+   It specifies a fallback font stack if 'Courier New' is not available. */
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
